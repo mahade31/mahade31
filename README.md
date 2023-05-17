@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahade Hasan
 - 👀 I’m interested in problem solving and fullstack web development
-- 🌱 I’m currently learning angular and .net
+- 🌱 I’m currently learning and working on angular and .net
 - 💞️ I’m looking to collaborate on any angular or .net project
 - 📫 How to reach me mahadehasan31@gmail.com
 
